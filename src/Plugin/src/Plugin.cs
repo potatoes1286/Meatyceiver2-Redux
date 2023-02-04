@@ -6,27 +6,12 @@ namespace H3VRMod
 	[BepInProcess("h3vr.exe")]
 	public class Plugin : BaseUnityPlugin
 	{
-		private readonly Hooks _hooks;
-
-		public Plugin()
-		{
-			_hooks = new Hooks();
-			_hooks.Hook();
-		}
-
-		private void Awake()
-		{
-
-		}
-
-		private void Update()
-		{
-
-		}
-
-		private void OnDestroy()
-		{
-			_hooks.Unhook();
-		}
+		
+	}
+	internal static class PluginInfo
+	{
+		internal const string NAME    = "Meatyceiver 2";
+		internal const string GUID    = "com.potatoes1286.meatyceiver2redux";
+		internal const string VERSION = "1.0.0";
 	}
 }
