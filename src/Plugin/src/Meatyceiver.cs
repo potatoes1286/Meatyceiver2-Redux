@@ -539,7 +539,7 @@ namespace Meatyceiver2 {
 
 	internal static class PluginInfo {
 		internal const string NAME    = "Meatyceiver 2";
-		internal const string GUID    = "com.potatoes1286.meatyceiver2redux";
+		internal const string GUID    = "com.potatoes1286.meatyceiver2";
 		internal const string VERSION = "0.3.3";
 	}
 }
