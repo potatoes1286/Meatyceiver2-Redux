@@ -12,6 +12,6 @@ namespace H3VRMod
 	{
 		internal const string NAME    = "Meatyceiver 2";
 		internal const string GUID    = "com.potatoes1286.meatyceiver2redux";
-		internal const string VERSION = "1.0.0";
+		internal const string VERSION = "0.3.3";
 	}
 }
