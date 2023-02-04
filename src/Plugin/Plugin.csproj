@@ -5,6 +5,10 @@
         <LangVersion>9</LangVersion>
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <AssemblyName>Meatyceiver2</AssemblyName>
+        <RootNamespace>Meatyceiver2</RootNamespace>
+        <Company>Potatoes1286</Company>
+        <Product>Meatyceiver2</Product>
     </PropertyGroup>
     
     <ItemGroup>       
